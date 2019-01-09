@@ -3,8 +3,7 @@
 
 int main() {
     try {
-//        string filename = "practice.txt";
-        string filename = "/Users/s170396/Documents/Schoolwork/Georgetown/Freshman/Semester2/COSC 052/Project2/Project2/practice.txt";
+        string filename = "practice.txt";
         
         Bikes bikes;
         bikes.read(filename);
